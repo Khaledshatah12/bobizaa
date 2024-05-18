@@ -208,8 +208,8 @@ creloadHandler(false)
 bbts()
 
 }
-handler.help = ['botclone']
-handler.tags = ['ربط']
+handler.help = ['']
+handler.tags = ['']
 handler.command = ['code', 'codigo', 'sercode', 'ربط', ]
 handler.rowner = true
 
