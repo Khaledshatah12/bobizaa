@@ -93,6 +93,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 
 handler.help = ['info']
 handler.tags = ['main']
-handler.command = ['menu | الاوامر']
+handler.command = ['menu']
 
 export default handler
