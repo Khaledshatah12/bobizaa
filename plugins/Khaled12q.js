@@ -24,7 +24,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                             header: 'القائمة',
                             title: 'الاوامر',
                             description: '',
-                            id: '.menu'
+                            id: '.all'
                           },
                           {
                             header: 'الذكاء الصناعي',
@@ -67,7 +67,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                           },
                           {
                             header: 'قناة المطور',
-                            title: '.channel',
+                            title: 'قناتي',
                             description: '',
                             id: '.channel'
                           },
